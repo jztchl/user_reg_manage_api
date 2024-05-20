@@ -11,7 +11,7 @@
   An Django Rest API to create ,update and delete users on the go
   </p>
 </div>
-Here's a README for your project:
+
 
 ```markdown
 # User Registration and Management API
