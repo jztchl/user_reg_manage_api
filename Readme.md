@@ -16,7 +16,7 @@
 ```markdown
 # User Registration and Management API
 
-![Logo](favicon.ico)
+
 
 An API to create, update, and delete users on the go using Django Rest Framework.
 
